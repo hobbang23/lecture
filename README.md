@@ -66,3 +66,12 @@ https://blog.naver.com/investgy/222017360734
 
 
 ## 2. 영어 감정분석 데이터셋(Friends)
+### Data
+Dataset : Friends.zip 로 압축시킨 파일일을 사용함
+Testset : en_data.csv 파일을 사용함
+
+### Code
+오픈코드 참고함 (https://github.com/jiwonny/nlp_emotion_classification)
+
+### 분석환경
+구글 코랩 환경, Python
