@@ -36,3 +36,4 @@ KoBERT 참고 : https://github.com/SKTBrain/KoBERT
 
 Friends 데이터셋 구성 : https://sites.google.com/view/emotionx2019/datasets
 
+NSMC분석 코드참고 : https://blog.naver.com/horajjan/221739630055
