@@ -32,9 +32,11 @@ Testset : en_data.csv 파일을 사용함
 ### Code
 오픈코드 참고함 (https://github.com/jiwonny/nlp_emotion_classification)
 
-### 참고site
+#### 참고site
 KoBERT 참고 : https://github.com/SKTBrain/KoBERT
 
 Friends 데이터셋 구성 : https://sites.google.com/view/emotionx2019/datasets
 
 NSMC분석 코드참고 : https://blog.naver.com/horajjan/221739630055
+
+KoELECTRA 참고 : https://github.com/monologg/KoELECTRA
