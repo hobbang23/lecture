@@ -1,5 +1,6 @@
 # lecture
 Korea Univ. 자연어처리기술 기말 PJT
+
 실행환경 : 클라우드 서버와 GPU를 제공받는 google colab, Python
 
 
